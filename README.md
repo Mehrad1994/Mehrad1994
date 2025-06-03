@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | GIS Analyst | Urban Planner
 ----------------------------
 
-I am a Back-End Developer and GIS Expert who loves Python because I learn new things every day.
+I am a Urban Planner and GIS Expert who loves Python because I learn new things every day.
 
 * 🌍  I'm based in Dortmund, Germany  
 * ✉️  You can contact me at [moradipourmehrad@outlook.com](mailto:moradipourmehrad@outlook.com)  
 * 💼  [LinkedIn](https://www.linkedin.com/in/mehrad-moradipour)  
-* 🧠  Currently learning Django  
 * 🤝  I'm open to collaborating on Projects  
 
 <a href="https://www.github.com/mehrad1994" target="_blank" rel="noreferrer"><img
