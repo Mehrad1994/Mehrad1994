@@ -1,60 +1,90 @@
-# 👋 Hi, I'm Mehrad Moradipour
+# 👋 Hi there, I'm Mehrad Moradipour
 
-**Web & GIS Developer | M.Sc. Spatial Planning Candidate | Python Enthusiast**
-
----
-
-🎯 I am a back-end developer and spatial planner currently based in **Dortmund, Germany**, with a strong passion for **Python**, **Django**, and **geospatial technologies**. My academic and professional journey combines **urban planning**, **data science**, and **software development** to create sustainable and data-driven solutions.
+🎯 **Spatial Planner | GIS Analyst | Python Back-End Developer**  
+Currently based in Dortmund, Germany 🇩🇪  
+Focused on the intersection of urban planning, spatial data analysis, and sustainable digital solutions.
 
 ---
 
-## 💼 About Me
+## 🧭 About Me
 
-- 🌍 Based in Dortmund, Germany  
-- 🎓 M.Sc. in Spatial Planning @ TU Dortmund  
-- 🧪 Background in Urban Planning, GIS, and Environmental Analysis  
-- 🧠 Currently learning advanced Django and RESTful API development  
-- 🤝 Open to collaboration on open-source, geospatial, and back-end projects  
-- 📫 Reach me: [moradipourmehrad@outlook.com](mailto:moradipourmehrad@outlook.com)
+I’m currently pursuing my **M.Sc. in Spatial Planning** at **TU Dortmund**, where I specialize in spatial data analysis, sustainable development, and urban transformation. With a solid foundation in **urban planning**, **GIS**, and **IT systems**, I work at the intersection of geography, data, and web technologies.
+
+I also enjoy developing **Python-based backend systems** and web applications that support spatial decision-making, sustainable infrastructure, and smart urban development.
 
 ---
 
-## 🛠️ Skills
+## 💼 Professional Highlights
 
-**Languages & Frameworks**  
-Python • Django • JavaScript • C# • .NET • HTML5 • CSS3 • Bootstrap • JQuery
-
-**Geospatial & Data Tools**  
-PostGIS • QGIS • ArcGIS • GeoPandas • NumPy • Pandas • SQL • REST APIs
-
-**Design & Creative Tools**  
-Adobe Photoshop • Adobe Illustrator • Adobe XD • Adobe Premiere Pro
-
-**Other Tools**  
-Git • GitHub • MySQL • VS Code • Jupyter • Visual Studio
+- 🗺️ **GIS Analyst** at Shahr Tarh Saze: Developed ArcGIS & Python tools for urban data visualization and decision-making  
+- 🏙️ **Urban Planner** at Sadra Estehkam Bana: Revitalized local development plans and supported spatial transformation  
+- 🛰️ **Geospatial Data Analyst** at Jelvehgah Sakht Roya: Analyzed satellite, climate & infrastructure data  
+- 💻 **IT Specialist** at Nooran Group: Built web apps (ASP.NET Razor) and optimized networks by 50%  
+- 🌐 **WordPress & Django Developer**: Backend-driven websites with spatial and planning functionality
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Skills
 
-<a href="http://www.github.com/mehrad1994"><img src="https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Mehrad's GitHub stats" /></a>
+**🗺️ Spatial & Data Analysis:**  
+`ArcGIS`, `QGIS`, `GeoPandas`, `Pandas`, `Matplotlib`, `SPSS`, `R`
 
-<a href="http://www.github.com/mehrad1994"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrad1994&theme=tokyonight&hide_border=true" /></a>
+**📐 CAD & BIM:**  
+`AutoCAD`, `Revit`
 
-<a href="http://www.github.com/mehrad1994"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehrad1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" /></a>
+**🌍 Web Development:**  
+- Backend: `Python`, `Django`, `ASP.NET Razor`, `WordPress`  
+- Frontend: `HTML5`, `CSS3`, `Bootstrap`, `JavaScript`, `jQuery`
 
-<a href="https://github.com/mehrad1994"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" /></a>
+**🗄️ Databases:**  
+`MySQL`, `Microsoft SQL Server`
+
+**🛠️ IT & Systems:**  
+`Windows`, `macOS`, `Network Admin`, `CCTV`, `VoIP`
+
+**🌐 Languages:**  
+Persian (Native), English (C1), German (B2)
+
+**🤝 Soft Skills:**  
+Teamwork, Project Management, Problem Solving, Communication, Creativity
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Education
 
-<p align="left">
-<a href="https://discord.com/users/mehrad#3270" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://github.com/mehrad1994" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/mehrad-moradipour" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+🎓 **M.Sc. Spatial Planning**  
+*Technical University of Dortmund*  
+> Focus: GIS, sustainable urban development, regional planning
+
+🎓 **M.Sc. Urban Planning**  
+*Tarbiat Modares University*  
+> Thesis: *Balancing of Heat Islands with an Ecological Sustainability Approach*
+
+🎓 **B.Sc. Urban Engineering**  
+*Islamic Azad University*  
+> Focus: Infrastructure design, transportation, urban design
 
 ---
 
-> “The best way to predict the future is to create it.” — Abraham Lincoln
+## 📈 GitHub Stats
+
+![Mehrad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrad1994&hide_border=true&background=1c1917&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&langs_count=10&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2)
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mehrad1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mehrad-moradipour)  
+📫 Email: mehrad.moradipour@tu-dortmund.de  
+📍 Dortmund, Germany
+
+---
+
+_Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me for collaboration._
+
