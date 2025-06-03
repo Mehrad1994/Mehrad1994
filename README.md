@@ -3,7 +3,7 @@
 Web Developer | GIS Analyst | Urban Planner
 ----------------------------
 ## About
-- I am a Urban Planner and GIS Expert who loves Python because I learn new things every day.
+- I am an Urban Planner and GIS Expert who loves Python because I learn new things every day.
 - 🌍 I'm based in Dortmund, Germany
 - ✉️ You can contact me at [moradipourmehrad@outlook.com](mailto:moradipourmehrad@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehrad-moradipour)
