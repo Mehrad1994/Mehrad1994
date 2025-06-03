@@ -36,9 +36,9 @@ src="https://img.shields.io/github/followers/mehrad1994?logo=github&style=for-th
 
 ### Socials
 
-[![Discord](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)](https://discord.com/users/mehrad#3270)
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/mehrad1994)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/mehrad-moradipour)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32">](https://discord.com/users/mehrad#3270)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32">](https://www.github.com/mehrad1994)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32">](https://www.linkedin.com/in/mehrad-moradipour)
 
 ---
 
