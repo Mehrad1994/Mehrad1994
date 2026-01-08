@@ -1,55 +1,68 @@
-# Mehrad Moradipour
-![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-Web Developer | GIS Analyst | Urban Planner
-----------------------------
-## About
-- I am an Urban Planner and GIS Expert who loves Python because I learn new things every day.
-- 🌍 I'm based in Dortmund, Germany
-- ✉️ You can contact me at [moradipourmehrad@outlook.com](mailto:moradipourmehrad@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehrad-moradipour)
-- 🤝 I'm open to collaborating on Projects
+<div align="center">
 
-<a href="https://www.github.com/mehrad1994" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mehrad1994?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+# Mehrad Moradipour
+
+**Research Assistant | GIS Analyst | Urban Planner**
+
+📍 Dortmund, Germany
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-moradipour)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehrad1994)
+
+</div>
+
+---
+
+### About Me
+
+Urban Planner and GIS Expert with a passion for data analysis and software development.  
+Currently a **Research Assistant** at **[Hochschule Bochum](https://www.hochschule-bochum.de/fbg/team-und-labore/kessler/)**, contributing to the **[AquaINFRA](https://aquainfra.eu/)** project for spatiotemporal analysis of inland and marine waters.
 
 ---
 
 ### Skills
 
-- **Geoinformation & Data Analysis**
-  - ArcGIS, QGIS, Python (Pandas, GeoPandas, Matplotlib), SPSS, R
-- **CAD & BIM**
-  - Autodesk AutoCAD, Autodesk Revit
-- **Web Development**
-  - Backend: Python, Django, ASP.NET Razor, WordPress
-  - Frontend: HTML5, CSS3, Bootstrap, jQuery, JavaScript
-- **Database Management**
-  - Microsoft SQL Server, MySQL
-- **IT Administration**
-  - Windows, Mac OS
-- **Languages**
-  - Persian (Native), English (C1), German (B2)
-- **Soft Skills**
-  - Teamwork, Problem-Solving, Communication, Analytical Thinking, Project Management, Creativity, Adaptability
+<div align="center">
+
+**GIS & Data Analysis**  
+![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=flat&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Web Development**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Database & Tools**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000f?style=flat&logo=mysql&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E2241F?style=flat&logo=autodesk&logoColor=white)
+
+</div>
 
 ---
 
-### Socials
+### GitHub Activity
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32">](https://discord.com/users/mehrad#3270)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32">](https://www.github.com/mehrad1994)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32">](https://www.linkedin.com/in/mehrad-moradipour)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrad1994&theme=dark&hide_border=true&background=0d1117)
+
+</div>
 
 ---
 
-### Badges
+<div align="center">
 
-**My GitHub Stats**
+**Let's connect!**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/mehrad1994)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehrad1994&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://github.com/mehrad1994)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrad1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph)](https://github.com/mehrad1994)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/mehrad1994)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-moradipour)
+</div>
