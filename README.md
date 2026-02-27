@@ -1,68 +1,138 @@
 <div align="center">
 
-# Mehrad Moradipour
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6dd4,100:2ea043&height=200&section=header&text=Mehrad%20Moradipour&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Assistant%20%7C%20GIS%20Analyst%20%7C%20Urban%20Planner&descSize=18&descAlignY=55&descColor=cccccc"/>
 
-**Research Assistant | GIS Analyst | Urban Planner**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8C%8D+Spatiotemporal+Analysis+of+Water+Systems;%F0%9F%93%8A+GIS+%26+Data+Analysis+Expert;%F0%9F%92%BB+Python+%7C+R+%7C+Django+Developer;%F0%9F%8F%97%EF%B8%8F+Urban+Planning+%26+Geoinformatics" alt="Typing SVG" />
+</a>
 
-📍 Dortmund, Germany
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-moradipour)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehrad1994)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-moradipour)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehrad1994)
+[![Location](https://img.shields.io/badge/📍_Dortmund,_Germany-333333?style=for-the-badge)]()
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehrad1994&style=for-the-badge&color=1a6dd4&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<!-- About Me -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="120" />
+
+Urban Planner and GIS Expert with a passion for data analysis and software development.
+
+- 🔬 **Research Assistant** at **[Hochschule Bochum](https://www.hochschule-bochum.de/fbg/team-und-labore/kessler/)**
+- 🌊 Contributing to the **[AquaINFRA](https://aquainfra.eu/)** project for spatiotemporal analysis of inland and marine waters
+- 🗺️ Specialized in **GIS**, **remote sensing**, and **spatial data analysis**
+- 🐍 Building tools with **Python**, **R**, and **Django**
+- 🎓 Background in **Urban Planning** & **Geoinformatics**
+
+<br clear="right"/>
+
+---
+
+<!-- Skills Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+
+<div align="center">
+
+### 🗺️ GIS & Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E2241F?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### About Me
-
-Urban Planner and GIS Expert with a passion for data analysis and software development.  
-Currently a **Research Assistant** at **[Hochschule Bochum](https://www.hochschule-bochum.de/fbg/team-und-labore/kessler/)**, contributing to the **[AquaINFRA](https://aquainfra.eu/)** project for spatiotemporal analysis of inland and marine waters.
-
----
-
-### Skills
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
-**GIS & Data Analysis**  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=flat&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+<a href="https://github.com/mehrad1994">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mehrad1994">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
 
-**Web Development**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<br/><br/>
 
-**Database & Tools**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=flat&logo=mysql&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E2241F?style=flat&logo=autodesk&logoColor=white)
+<a href="https://github.com/mehrad1994">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrad1994&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/mehrad1994">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrad1994&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a6dd4" />
+</a>
 
 </div>
 
 ---
 
-### GitHub Activity
-
+<!-- Snake Animation -->
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrad1994&theme=dark&hide_border=true&background=0d1117)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehrad1994/mehrad1994/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehrad1994/mehrad1994/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mehrad1994/mehrad1994/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
+<!-- Connect Section -->
 <div align="center">
 
-**Let's connect!**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> &nbsp;Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-moradipour)
+<p>I'm always open to collaboration on GIS, data science, and web development projects.</p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-moradipour)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrad.moradipour@gmail.com)
+
+<br/><br/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6dd4,100:2ea043&height=120&section=footer"/>
+
 </div>
