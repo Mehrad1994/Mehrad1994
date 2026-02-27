@@ -82,25 +82,26 @@ Urban Planner and GIS Expert with a passion for data analysis and software devel
 
 <div align="center">
 
+<!-- GitHub Profile Summary Cards (more reliable than github-readme-stats) -->
 <a href="https://github.com/mehrad1994">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mehrad1994&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehrad1994&theme=github_dark" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/mehrad1994">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad1994&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehrad1994&theme=github_dark" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/mehrad1994">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrad1994&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mehrad1994&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/mehrad1994">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehrad1994&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a6dd4" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehrad1994&theme=github_dark" />
 </a>
 
 </div>
